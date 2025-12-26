@@ -213,9 +213,9 @@ This project is open source and available for educational purposes.
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yKhoaBunnn](https://github.com/KhoaBunnn)
+- GitHub: [@KhoaBunnn](https://github.com/KhoaBunnn)
 - Email: pkhoa3012@gmail.com
 
 ---
 
-**Built with ❤️ for learning ASP.NET Core**
+
